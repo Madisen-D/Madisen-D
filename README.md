@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Madisen!
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning ... HTML, CSS, JavaScript & Python
+- 🌱 I’m currently learning ... HTML, CSS, Java & Python
 - 💞️ I’m looking to collaborate on ... personal/ learning projects
 - 📫 How to reach me ... madisengracedavis3@gmail.com (no spam pls!)
 
